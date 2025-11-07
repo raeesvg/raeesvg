@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I’m Raees! 👋
 
-<!--
-**raeesvg/raeesvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Final-year BSc IT student, with work experience primarily in IT Support. 
+I love building projects, experimenting with different ways to solve problems, and turning ideas into code.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on  
+- Portfolio website to showcase my school projects  
+- Playing around with different coding languages
+- Sharpening my skills as a multi-disciplined IT Technician. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me  
+- LinkedIn: https://www.linkedin.com/in/raeesvg/
+- Email: raeesvg@gmail.com
+
+## 🛠 Tech Stack  
+| Language/Tools | Description |
+|---------------|-------------|
+| `C++`        | Console applications, core logic |
+| `Java`       | OOP & data structures |
+| `JavaScript` | Frontend & node scripting |
+| `HTML5/ CSS3`| Web fundamentals |
+| `Python`     | Scripting, data analysis |
+| `Git / GitHub`| Version control & collaboration |
+
+
+---
+
+*Thanks for stopping by — look around and feel free to say hi! 🚀*
